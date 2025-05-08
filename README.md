@@ -1,4 +1,4 @@
-# 🚀 TSLA Stock Threshold Detector (Binary Search Project)
+# TSLA Stock Threshold Detector (Binary Search Project)
 
 This project uses **binary search** to detect the **first time Tesla's stock (TSLA) crossed a critical price threshold**, using real historical market data. It then visualizes the result alongside key political and economic events that resulted in TSLA stock market crash between **December 2024 and March 2025**.
 
